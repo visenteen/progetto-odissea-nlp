@@ -1,6 +1,9 @@
 # Un mare di dati o una connessione umana?
 ### Analisi computazionale e Context Awareness tra l’Odissea di Omero e la reinterpretazione di Christopher Nolan.
 
+[📊 Clicca qui per visualizzare le Slide di Presentazione del Progetto](VISENTIN_TDL.pdf)
+
+
 ## 📌 Identità del Progetto
 * **Esame:** Tecnologie dei dati e del linguaggio
 * **Modello NLP Utilizzato:** SpaCy (`en_core_web_lg` - Word Embeddings a 300 dimensioni)
