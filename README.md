@@ -1,7 +1,7 @@
 # Un mare di dati o una connessione umana?
 ### Analisi computazionale e Context Awareness tra l’Odissea di Omero e la reinterpretazione di Christopher Nolan.
 
-<a href="VISENTIN_TDL.pdf" target="_blank">📊 Clicca qui per visualizzare le Slide di Presentazione a schermo intero</a>
+<a href="VISENTIN_TDL.pdf" target="_blank">📊 Clicca qui per visualizzare le Slide di Presentazione</a>
 
 
 
